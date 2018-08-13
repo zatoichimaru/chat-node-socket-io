@@ -1,0 +1,17 @@
+{
+  "name": "chat basico",
+  "description": "chat socket io, feito william tenorio",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": []
+}
